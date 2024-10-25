@@ -1,0 +1,14 @@
+D:\C#\AsymmetricEncryption\task2\bin\Debug\net8.0\task2.exe
+D:\C#\AsymmetricEncryption\task2\bin\Debug\net8.0\task2.deps.json
+D:\C#\AsymmetricEncryption\task2\bin\Debug\net8.0\task2.runtimeconfig.json
+D:\C#\AsymmetricEncryption\task2\bin\Debug\net8.0\task2.dll
+D:\C#\AsymmetricEncryption\task2\bin\Debug\net8.0\task2.pdb
+D:\C#\AsymmetricEncryption\task2\obj\Debug\net8.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\AsymmetricEncryption\task2\obj\Debug\net8.0\task2.AssemblyInfoInputs.cache
+D:\C#\AsymmetricEncryption\task2\obj\Debug\net8.0\task2.AssemblyInfo.cs
+D:\C#\AsymmetricEncryption\task2\obj\Debug\net8.0\task2.csproj.CoreCompileInputs.cache
+D:\C#\AsymmetricEncryption\task2\obj\Debug\net8.0\task2.dll
+D:\C#\AsymmetricEncryption\task2\obj\Debug\net8.0\refint\task2.dll
+D:\C#\AsymmetricEncryption\task2\obj\Debug\net8.0\task2.pdb
+D:\C#\AsymmetricEncryption\task2\obj\Debug\net8.0\task2.genruntimeconfig.cache
+D:\C#\AsymmetricEncryption\task2\obj\Debug\net8.0\ref\task2.dll
