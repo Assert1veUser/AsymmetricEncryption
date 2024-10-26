@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\AsymmetricEncryption\\task3\\task3.csproj",
+      "projectUniqueName": "F:\\C#\\AsymmetricEncryption\\task3\\task3.csproj",
       "projectName": "task3",
-      "projectPath": "D:\\C#\\AsymmetricEncryption\\task3\\task3.csproj",
+      "projectPath": "F:\\C#\\AsymmetricEncryption\\task3\\task3.csproj",
       "packagesPath": "C:\\Users\\marki\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\AsymmetricEncryption\\task3\\obj\\",
+      "outputPath": "F:\\C#\\AsymmetricEncryption\\task3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marki\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,7 +26,6 @@
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
